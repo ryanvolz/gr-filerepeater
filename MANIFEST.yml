@@ -1,0 +1,23 @@
+title: The FILEREPEATER OOT Module
+version: 1.0
+brief: A set of GNURadio blocks with more control over how files are played
+tags: # Tags are arbitrary, but look at CGRAN what other authors are using
+  - files
+  - iq
+  - recording
+author:
+  - ghostop14 <ghostop14@gmail.com>
+copyright_owner:
+  - ghostop14
+license: GPL-3.0-or-later
+gr_supported_version:
+  - 3.7
+  - 3.8
+  - 3.9
+  - 3.10
+repo: https://github.com/ghostop14/gr-filerepeater
+website: https://github.com/ghostop14/gr-filerepeater
+#icon: # Put a URL to a square image here that will be used as an icon
+description: |-
+  A set of GNURadio blocks with more control over how files are played
+file_format: 1
